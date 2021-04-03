@@ -561,5 +561,4 @@ public class HomeWorkApp_3 {
         System.out.print(infoMessage);
         return in.nextInt();
     }
-
 }
